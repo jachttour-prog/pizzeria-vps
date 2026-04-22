@@ -1,0 +1,114 @@
+{
+  "categories": [
+    {
+      "name": "Pizza",
+      "items": [
+        {"name": "1. Margherita", "ingredients": "sos pomidorowy, mozzarella, mix ziół", "prices": {"M 30cm": "25", "L 40cm": "50", "XL 60cm": "66"}},
+        {"name": "2. Funghetta", "ingredients": "sos pomidorowy, mozzarella, pieczarki, mix ziół", "prices": {"M 30cm": "31", "L 40cm": "55", "XL 60cm": "70"}},
+        {"name": "3. Prosciutto", "ingredients": "sos pomidorowy, mozzarella, szynka, mix ziół", "prices": {"M 30cm": "33", "L 40cm": "57", "XL 60cm": "72"}},
+        {"name": "4. Salami", "ingredients": "sos pomidorowy, mozzarella, salami, mix ziół", "prices": {"M 30cm": "35", "L 40cm": "57", "XL 60cm": "72"}},
+        {"name": "5. Koko Spoko", "ingredients": "sos pomidorowy, mozzarella, kurczak, kukurydza, mix ziół", "prices": {"M 30cm": "35", "L 40cm": "57", "XL 60cm": "72"}},
+        {"name": "6. Capriciossa", "ingredients": "sos pomidorowy, mozzarella, pieczarki, szynka, mix ziół", "prices": {"M 30cm": "36", "L 40cm": "58", "XL 60cm": "73"}},
+        {"name": "7. Sycyliana", "ingredients": "sos pomidorowy, mozzarella, kurczak, ananas, mix ziół", "prices": {"M 30cm": "36", "L 40cm": "58", "XL 60cm": "73"}},
+        {"name": "9. Trio Serów", "ingredients": "sos pomidorowy, feta, mozzarella, camembert, mix ziół", "prices": {"M 30cm": "38", "L 40cm": "61", "XL 60cm": "78"}, "isNew": true},
+        {"name": "10. Tonno", "ingredients": "sos pomidorowy, mozzarella, cebula, tuńczyk, kukurydza, mix ziół", "prices": {"M 30cm": "39", "L 40cm": "64", "XL 60cm": "81"}, "isNew": true},
+        {"name": "11. Rustico", "ingredients": "sos pomidorowy, mozzarella, pieczarki, cebula, boczek, papryka świeża, mix ziół", "prices": {"M 30cm": "39", "L 40cm": "64", "XL 60cm": "81"}},
+        {"name": "12. Carnetta", "ingredients": "sos pomidorowy, mozzarella, mięso mielone, mix ziół", "prices": {"M 30cm": "39", "L 40cm": "64", "XL 60cm": "81"}},
+        {"name": "13. Peperoni Diablo", "ingredients": "sos pomidorowy, mozzarella, salami, papryka jalapeño, cebula, mix ziół", "prices": {"M 30cm": "39", "L 40cm": "64", "XL 60cm": "81"}, "bestseller": true},
+        {"name": "14. Hawai", "ingredients": "sos pomidorowy, mozzarella, pieczarki, pomidor, papryka świeża, oliwki, kukurydza, mix ziół", "prices": {"M 30cm": "39", "L 40cm": "64", "XL 60cm": "81"}},
+        {"name": "15. Pollo", "ingredients": "sos pomidorowy, mozzarella, kurczak, kapusta pekińska z majonezem, mix ziół", "prices": {"M 30cm": "39", "L 40cm": "64", "XL 60cm": "82"}},
+        {"name": "16. Vegetariana", "ingredients": "sos pomidorowy, mozzarella, pieczarki, pomidor, papryka świeża, oliwki, kukurydza, mix ziół", "prices": {"M 30cm": "39", "L 40cm": "64", "XL 60cm": "82"}},
+        {"name": "18. Venezia", "ingredients": "sos pomidorowy, mozzarella, kurczak, boczek, kukurydza, papryka świeża, mix ziół", "prices": {"M 30cm": "39", "L 40cm": "64", "XL 60cm": "82"}},
+        {"name": "19. Mexicana", "ingredients": "sos pomidorowy, mozzarella, szynka, salami, kukurydza, papryka jalapeño, mix ziół", "prices": {"M 30cm": "40", "L 40cm": "65", "XL 60cm": "84"}},
+        {"name": "20. Chłopska", "ingredients": "sos pomidorowy, mozzarella, cebula, pieczarki, kiełbasa, boczek, papryka świeża, czosnek, mix ziół", "prices": {"M 30cm": "40", "L 40cm": "65", "XL 60cm": "84"}},
+        {"name": "22. Costa", "ingredients": "sos pomidorowy, mozzarella, pieczarki, szynka, salami, ananas, mix ziół", "prices": {"M 30cm": "40", "L 40cm": "65", "XL 60cm": "84"}},
+        {"name": "23. Ortagi", "ingredients": "sos pomidorowy, mozzarella, brokuł, kalafior, marchew, mix ziół", "prices": {"M 30cm": "40", "L 40cm": "65", "XL 60cm": "84"}},
+        {"name": "25. Composizione", "ingredients": "sos pomidorowy, mozzarella, 5 dowolnych składników, mix ziół", "prices": {"M 30cm": "42", "L 40cm": "65", "XL 60cm": "86"}},
+        {"name": "28. Szarpanka", "ingredients": "wieprzowina szarpana, sos czosnkowy, mozzarella, korniszon, cebula, mix ziół", "prices": {"M 30cm": "40", "L 40cm": "69", "XL 60cm": "90"}}
+      ]
+    },
+    {
+      "name": "Burgery",
+      "items": [
+        {"name": "Burger z Wołowiną", "ingredients": "kotlet wołowy 200g, ogórek kiszony, pomidor, mix sałat, cebula, ser cheddar, boczek, majonez, ketchup", "prices": {"Porcja": "41"}},
+        {"name": "Burger Drobiowy", "ingredients": "filet panierowany 200g, ogórek kiszony, pomidor, mix sałat, cebula, ser cheddar, majonez, ketchup", "prices": {"Porcja": "39"}},
+        {"name": "Burger z Szarpanką", "ingredients": "wieprzowina szarpana 200g, boczek, sałata, ogórek kiszony, pomidor, cebula, cheddar, sos czosnkowy", "prices": {"Porcja": "41"}},
+        {"name": "Burger z Camembertem", "ingredients": "ser camembert, sałata, ogórek, pomidor, żurawina", "prices": {"Porcja": "39"}}
+      ]
+    },
+    {
+      "name": "Sałatki",
+      "items": [
+        {"name": "Peperoni", "ingredients": "grzanki czosnkowe, mix sałat, panierowane kawałki kurczaka, ogórek, pomidor, cebula, sos vinegret", "prices": {"Porcja": "35"}},
+        {"name": "Indonezyjska", "ingredients": "grzanki czosnkowe, mix sałat, ogórek, pomidor, cebula, ananas, pomarańcza, kurczak grillowany, prażone pestki dyni i słonecznika, sos vinegret", "prices": {"Porcja": "41"}},
+        {"name": "Grecka", "ingredients": "grzanki czosnkowe, mix sałat, ogórek, pomidor, cebula, ser feta, oliwki, sos vinegret", "prices": {"Porcja": "35"}}
+      ]
+    },
+    {
+      "name": "Makarony z pieca",
+      "items": [
+        {"name": "Peperoni", "ingredients": "filet drobiowy, makaron, cebula, pieczarki, sos śmietanowy, mozzarella", "prices": {"Porcja": "42"}},
+        {"name": "Chłopski", "ingredients": "gyros wieprzowy, makaron, boczek, cebula, czosnek, sos carbonara, mozzarella", "prices": {"Porcja": "42"}},
+        {"name": "Meksykański", "ingredients": "filet drobiowy, makaron, pieczarki, papryka jalapeño, cebula, kukurydza, mozzarella", "prices": {"Porcja": "42"}}
+      ]
+    },
+    {
+      "name": "Zapiekanki z pieca",
+      "items": [
+        {"name": "Zapiekanka Pepperoni", "ingredients": "filet drobiowy, opiekane ziemniaki, cebula, pieczarki, sos śmietanowy, mozzarella", "prices": {"Porcja": "41"}},
+        {"name": "Zapiekanka Chłopska", "ingredients": "gyros wieprzowy, opiekane ziemniaki, boczek, cebula, czosnek, sos carbonara, mozzarella", "prices": {"Porcja": "41"}},
+        {"name": "Zapiekanka Szarpana", "ingredients": "szarpana wieprzowina, ziemniaki opiekane, cebula, papryka, sos czosnkowy, mozzarella", "prices": {"Porcja": "39"}},
+        {"name": "Indonezyjska", "ingredients": "gyros wieprzowy, opiekane ziemniaki, boczek, cebula, czosnek, sos carbonara, mozzarella", "prices": {"Porcja": "39"}}
+      ]
+    },
+    {
+      "name": "Makarony",
+      "items": [
+        {"name": "Tagiatelle z Krewetkami", "ingredients": "makaron, 8 krewetek, białe wino, masło czosnkowe, pomidor koktajlowy, ser parmezan, natka pietruszki", "prices": {"Porcja": "42"}},
+        {"name": "Tagiatelle z Krewetkami na Ostro", "ingredients": "makaron, 8 krewetek, jalapeño, sos pomidorowy, czosnek, pomidor koktajlowy, natka pietruszki", "prices": {"Porcja": "42"}},
+        {"name": "Tagiatelle Bolognese", "ingredients": "makaron, mięso mielone, sos bolognese", "prices": {"Porcja": "39"}},
+        {"name": "Tagiatelle Carbonara", "ingredients": "makaron, boczek, czosnek, cebula, sos carbonara", "prices": {"Porcja": "39"}}
+      ]
+    },
+    {
+      "name": "Przekąski",
+      "items": [
+        {"name": "Pieczywo Czosnkowe", "ingredients": "4 grzanki czosnkowe zapiekane mozzarellą z suszonymi pomidorami", "prices": {"Porcja": "14"}},
+        {"name": "Pieczywo z Szynką i Salami", "ingredients": "4 grzanki czosnkowe z szynką, zapiekane mozzarellą z suszonymi pomidorami", "prices": {"Porcja": "16"}},
+        {"name": "Pieczywo z Camembertem i Rukolą", "ingredients": "4 grzanki czosnkowe zapiekane z camembertem oraz suszonymi pomidorami", "prices": {"Porcja": "16"}},
+        {"name": "Pieczywo z Krewetkami", "ingredients": "4 grzanki czosnkowe z krewetkami zapiekane mozzarellą z suszonymi pomidorami", "prices": {"Porcja": "25"}},
+        {"name": "Krewetki z Pieca", "ingredients": "8 krewetek na białym winie z masłem czosnkowym, pomidorkami koktajlowymi, pieczywem czosnkowym i sałatką z rukoli", "prices": {"Porcja": "35"}},
+        {"name": "Frytki", "ingredients": "200g", "prices": {"Porcja": "17"}},
+        {"name": "Krążki Cebulowe", "ingredients": "200g", "prices": {"Porcja": "17"}}
+      ]
+    },
+    {
+      "name": "Kubki",
+      "items": [
+        {"name": "Kubek Peperoni", "ingredients": "kurczak, frytki, mix sałat, sos czosnkowy, ketchup", "prices": {"Porcja": "37"}},
+        {"name": "Kubek Chłopski", "ingredients": "gyros wieprzowy, frytki, mix sałat, sos czosnkowy, ketchup", "prices": {"Porcja": "37"}},
+        {"name": "Kubek z Szarpanką", "ingredients": "frytki, szarpana wieprzowina, mix sałat, sos czosnkowy, ketchup", "prices": {"Porcja": "37"}}
+      ]
+    },
+    {
+      "name": "Napoje",
+      "items": [
+        {"name": "Coca-Cola / Coca-Cola Zero", "prices": {"0,25L": "7", "0,5L": "10"}},
+        {"name": "Fanta / Sprite", "prices": {"0,25L": "7", "0,5L": "10"}},
+        {"name": "Kinley Tonic Water", "prices": {"0,25L": "7", "0,5L": "10"}},
+        {"name": "Fuze Tea", "prices": {"0,25L": "7", "0,5L": "10"}},
+        {"name": "Cappy (sok)", "prices": {"0,25L": "7", "0,33L": "9"}},
+        {"name": "Burn (energetyk)", "prices": {"0,25L": "9"}},
+        {"name": "Woda mineralna", "prices": {"0,5L": "5"}}
+      ]
+    }
+  ],
+  "extras": {
+    "pizza_additions": [
+      {"name": "Dodatkowy ser", "prices": {"M": "6", "L": "8", "XL": "12"}},
+      {"name": "Dodatek mięsny lub wegetariański", "prices": {"M": "6", "L": "8", "XL": "12"}}
+    ],
+    "sauces": ["czosnkowy", "meksykański", "ketchup", "słodkie chili", "koperkowo-czosnkowy", "oliwa z czosnkiem i ziołami"],
+    "sauce_price": "4 zł (50ml)"
+  }
+}

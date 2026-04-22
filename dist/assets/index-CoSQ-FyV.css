@@ -1,0 +1,1 @@
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}body{font-family:Lato,sans-serif;background-color:#fdf6ec;color:#1a1209}.font-display{font-family:Playfair Display,serif}@keyframes pulse-glow{0%,to{box-shadow:0 0 20px #e85d0466}50%{box-shadow:0 0 40px #e85d04cc}}.animate-pulse-glow{animation:pulse-glow 2s ease-in-out infinite}

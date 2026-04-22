@@ -1,0 +1,10 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body { font-family: 'Lato', sans-serif; background-color: #FDF6EC; color: #1A1209; }
+.font-display { font-family: 'Playfair Display', serif; }
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 20px rgba(232,93,4,0.4); }
+  50% { box-shadow: 0 0 40px rgba(232,93,4,0.8); }
+}
+.animate-pulse-glow { animation: pulse-glow 2s ease-in-out infinite; }
